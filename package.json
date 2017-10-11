@@ -1,0 +1,20 @@
+{
+  "name": "Empty NodeJS starter with random dependencies",
+  "version": "1.0.0",
+  "description": "Empty NodeJS starter with random dependencies",
+  "main": "server.js",
+  "scripts": {
+    "node": "node server.js"
+  },
+  "author": "Rene Osman",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "elasticsearch": "^13.3.1",
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "requestify": "^0.2.5"
+  }
+}
