@@ -1,5 +1,5 @@
 {
-  "name": "Empty NodeJS starter with random dependencies",
+  "name": "nodejs-boilerplate",
   "version": "1.0.0",
   "description": "Empty NodeJS starter with random dependencies",
   "main": "server.js",
