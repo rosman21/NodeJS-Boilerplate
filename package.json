@@ -1,7 +1,7 @@
 {
   "name": "nodejs-boilerplate",
   "version": "1.0.0",
-  "description": "Empty NodeJS starter with random dependencies",
+  "description": "Empty NodeJS, Bootstrap 4, and AngularJS (Angualr 1) starter with random dependencies",
   "main": "server.js",
   "scripts": {
     "node": "node server.js"
